@@ -1,0 +1,9 @@
+# Go to https://ionic.io/ionicons to find available icons.
+socials = [
+  { href = "https://www.facebook.com/NierKemono/", target="_blank", icon = "logo-facebook", title = "Facebook" },
+  { href = "https://x.com/Nierrrrrrr", target="_blank", icon = "logo-x", title = "X" },
+  { href = "https://www.youtube.com/@stu5405", target="_blank", icon = "logo-youtube", title = "YouTube" },
+  { href = "https://www.twitch.tv/nier3", target="_blank", icon = "logo-twitch", title = "Twitch" },
+  { href = "https://soundcloud.com/nierrrrrrr", target="_blank", icon = "logo-soundcloud", title = "SoundCloud" },
+  # { href = "https://www.plurk.com/Nier", target="_blank", image="/plurk-icon.svg", icon = "logo-plurk", title = "Plurk" },
+]

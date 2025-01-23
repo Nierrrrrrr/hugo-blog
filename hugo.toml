@@ -38,7 +38,7 @@ footerBottomText = "一步一步"
 # waline = true
 # walineServer = ""
 
-email = "blog@nier.tw"
+# email = "blog@nier.tw"
 
 siteStartYear = 2025
 
@@ -49,7 +49,7 @@ siteStartYear = 2025
 
 # options
 stickyNav = true
-# reorderNavItems = ["search", "rss", "posts", "categories", "tags"]
+reorderNavItems = ["search", "facebook", "posts", "categories", "tags"]
 # collapseNavItems = ["posts", "categories", "tags"]
 # noDefaultSummaryCover = true
 # showTableOfContents = true
@@ -58,7 +58,8 @@ stickyNav = true
 # showPrevNextPost = true
 reorderShares = ["x", "facebook"]
 
-# [params.navItems]
+[params.navItems]
+facebook = { href = "https://www.facebook.com/NierKemono/", target="_blank", icon = "logo-facebook", title = "Facebook" }
 
 # [params.advanced]
 # customCSS = ["css/custom.css"]
