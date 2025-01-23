@@ -1,7 +1,7 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://blog.nier.tw/'
 defaultContentLanguage = "en"
 languageCode = "en"
-title = 'My New Hugo Site'
+title = 'Nier'
 theme = "dream"
 
 # [services]
@@ -19,13 +19,13 @@ darkTheme = "forest"
 # backgroundImage = "me/background.jpg"
 # backgroundImageDark = ""
 
-author = "Dream"
+author = "Nier"
 # description = ""
-# avatar = "img/avatar.png"
-headerTitle = "Hugo Theme Dream"
-# motto = ""
+avatar = "me/avatar.png"
+headerTitle = "Nier"
+motto = "🎹 🎵 👨‍💻"
 
-# footerBottomText = ""
+footerBottomText = "一步一步"
 
 # rss = true
 
@@ -38,7 +38,7 @@ headerTitle = "Hugo Theme Dream"
 # waline = true
 # walineServer = ""
 
-# email = ""
+email = "blog@nier.tw"
 
 siteStartYear = 2025
 
@@ -48,7 +48,7 @@ siteStartYear = 2025
 # customSyntaxHighlighting = true
 
 # options
-# stickyNav = true
+stickyNav = true
 # reorderNavItems = ["search", "rss", "posts", "categories", "tags"]
 # collapseNavItems = ["posts", "categories", "tags"]
 # noDefaultSummaryCover = true
@@ -56,7 +56,7 @@ siteStartYear = 2025
 # showSummaryCoverInPost = true
 # imageZoomableInPost = true
 # showPrevNextPost = true
-# reorderShares = ["x", "facebook", "whatsapp"]
+reorderShares = ["x", "facebook"]
 
 # [params.navItems]
 
