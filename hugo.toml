@@ -49,8 +49,8 @@ siteStartYear = 2025
 
 # options
 stickyNav = true
-reorderNavItems = ["search", "facebook", "posts", "categories", "tags"]
-# collapseNavItems = ["posts", "categories", "tags"]
+reorderNavItems = ["search", "facebook", "posts", "categories2", "tags2"]
+collapseNavItems = ["categories2", "tags2"]
 # noDefaultSummaryCover = true
 # showTableOfContents = true
 # showSummaryCoverInPost = true
@@ -60,6 +60,8 @@ reorderShares = ["x", "facebook"]
 
 [params.navItems]
 facebook = { href = "https://www.facebook.com/NierKemono/", target="_blank", icon = "logo-facebook", title = "Facebook" }
+categories2 = { href = "/categories", icon = "grid", title = "Categories" }
+tags2 = { href = "/tags", icon = "pricetags", title = "Tags" }
 
 # [params.advanced]
 # customCSS = ["css/custom.css"]
